@@ -1,0 +1,7 @@
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\bin\Debug\ex(classes).exe.config
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\bin\Debug\ex(classes).exe
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\bin\Debug\ex(classes).pdb
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\obj\Debug\ex(classes).csprojAssemblyReference.cache
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\obj\Debug\ex(classes).csproj.CoreCompileInputs.cache
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\obj\Debug\ex(classes).exe
+C:\Users\Seven\OneDrive\Рабочий стол\C#_Project\ex(classes)\ex(classes)\obj\Debug\ex(classes).pdb
